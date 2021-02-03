@@ -42,7 +42,7 @@ flask_bcrypt
 flask_login
 flask_mail
 ```
-![alt text](http://url/to/Capture.PNG)
+![alt text](G:\1 CS #1\Capture)
    
 **2. Importing other Necessary Libraries:**
 ```
