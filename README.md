@@ -42,7 +42,7 @@ flask_bcrypt
 flask_login
 flask_mail
 ```
-![alt text](G:\1 CS #1\Capture)
+![img.PNG](Capture.PNG)
    
 **2. Importing other Necessary Libraries:**
 ```
@@ -136,10 +136,11 @@ Give an example
 
 ## Authors
 
-* **Omar Bahaa
-    Maria Gamal
-    Lamiaa Samir**
+* **Omar Bahaa**
+* **Maria Gamal**
+* **Lamiaa Samir**
    *Initial work*
+   
 ## License
 
 
